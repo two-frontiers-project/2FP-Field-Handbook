@@ -1,7 +1,8 @@
-# [Sample transportation](09-sample-transportation.md)
+# Sample Transportation
 
 ### Background
 The transportation of biological and environmental samples is a critical link in the chain of custody between field collection and laboratory processing. Improper handling during transit can compromise sample integrity, lead to contamination, or result in the loss of valuable data. This protocol ensures that all 2FP samples—regardless of preservation method or destination—are transported under conditions that preserve microbial, chemical, and physical integrity for downstream applications such as sequencing, culturing, or chemical analysis.
+
 It applies to all transport methods, including hand-carry, domestic shipping, and international export. The focus is on preservative-specific temperature requirements, redundant containment to prevent leakage, and the inclusion of proper documentation for customs and regulatory clearance.
 All personnel transporting samples must be trained in sample-specific handling, aware of biosafety and import/export regulations, and prepared to respond to delays, temperature excursions, or other transport-related issues. Samples must be tracked from departure to receipt, with any deviations documented immediately.
 
@@ -9,7 +10,9 @@ All personnel transporting samples must be trained in sample-specific handling, 
 
 ### General Guidelines
 All samples must be clearly labeled with their CID and preservative type before leaving the field lab. A printed and digital manifest should accompany the shipment, listing each sample ID, its contents, and its destination. Secondary containment—such as sealed bags or boxes lined with absorbent material—is required for most shipments, especially those crossing national borders. Double bagging with absorbent material inside the inner bag is standard practice.
+
 Each shipment must include official documentation: a cover letter on organizational letterhead describing the samples, any required Material Transfer Agreements (MTAs), and all relevant permits. Waterproof contact information should be affixed to both the primary and secondary containers. Even when not legally required, we recommend declaring samples at customs to avoid seizure.
+
 When shipping with dry ice, use only carriers certified to handle “dangerous goods” and never seal dry ice in an airtight container. If driving or traveling with dry ice, ensure proper ventilation, use a CO₂ monitor, and avoid sealed compartments. Always include a temperature logger placed near the samples, and use trackers such as AirTags to monitor location during transit.
 
 #### Packing Checklist:
