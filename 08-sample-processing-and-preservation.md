@@ -7,9 +7,9 @@ All processing should be completed within 24 hours of [sample collection](06-sam
 
 Processing should be done in a clean workspace, sanitized before use with 10% bleach (5–10 minutes contact time) followed by 70–80% ethanol. Wear a lab coat, gloves, and any additional PPE appropriate for the environment. Unless conditions in the field prevent it (such as on a vessel), always process samples in a sterile field, using either a clean bench or a portable hood; if neither is available, a flame may be used for sterile work. Keep all tools, containers, and reagents organized to reduce handling time and risk of contamination.
 
-## Protocol
+# Protocol
 
-### Sample Processing
+## Sample Processing
 
 ### Sediment
 #### Initial Handling
@@ -114,7 +114,7 @@ Processing should be done in a clean workspace, sanitized before use with 10% bl
 10. Invert for 30 seconds to homogenize the sample.
 11. Return the sample to 4C or on blue ice.
 
-### Sample Preservation
+## Sample Preservation
 Proper preservation ensures the integrity of microbial communities for downstream molecular and culturing analyses. Follow the protocols below for DNA/RNA stabilization and cryogenic stock preparation for each of the sample types described above. Please see preparing preservation buffers prior to proceeding with sample preservation.
 
 #### DNA/RNA Shield Aliquot:
