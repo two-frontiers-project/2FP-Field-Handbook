@@ -4,7 +4,9 @@ Prior to going out into the field, select and prepare the areas you will need fo
 
 ### BSL-1 Field Laboratory Practices
 When operating a field lab, follow Biosafety Level 1 (BSL-1) practices unless your work or permits require higher containment. BSL-1 standards include wearing PPE (lab coat, gloves, eye protection), prohibiting food and drinks in the lab space, decontaminating work surfaces before and after use, and storing reagents and samples in designated clean areas. Most environmental microbial work falls under BSL-1, but confirm whether site-specific regulations require elevated biosafety measures.
-Field Lab Stations
+
+## Field Lab Stations
+
 1. #### Field sampling prep area
 - Prepare an area to assemble field equipment before departure to sampling sites. This space should be separate from sample processing and   preservation areas and large enough to stage both incoming and outgoing gear. Maintain an inventory list here for quick restocking and replacement.
 
