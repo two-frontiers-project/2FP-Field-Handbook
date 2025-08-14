@@ -1,6 +1,6 @@
 # Preparation for Sample Collection
 
-### Background
+## Background
 Preparation is where 2FP’s field success is decided. Every expedition begins with clear planning, structured workflows, and built-in redundancy for all critical operations. Regardless of environment — desert, reef, forest, or vent field — the same core principles apply: samples must be traceable, sterile, biologically representative, and compatible with downstream sequencing and culturing.
 
 **This section outlines how to:**
@@ -8,6 +8,8 @@ Preparation is where 2FP’s field success is decided. Every expedition begins w
 - Build and check your kit
 - Prepare for safety contingencies
 - Ensure metadata and cold chain coverage from the start
+
+## Protocol
 
 ### Defining sampling plans
 Every expedition requires a clear sampling strategy that aligns with scientific goals, site constraints, and team capacity. A strong plan defines what types of samples will be collected, how many replicates are needed per site, which preservation methods will be used, and who is responsible for each step.
