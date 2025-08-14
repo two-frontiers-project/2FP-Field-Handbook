@@ -1,4 +1,4 @@
-# [About this handbook](01-about-this-handbook.md)
+# [About the 2FP Field Handbook]
 This handbook is the official Field Sampling and Processing Guide of The Two Frontiers Project (2FP). It has been developed to provide standardized, modular, and field-operational protocols for environmental microbial sampling across terrestrial and aquatic systems, including SCUBA-based marine work.
 
 ### Intended Audience
