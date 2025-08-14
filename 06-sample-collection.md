@@ -30,18 +30,21 @@ We recommend working in sampling teams at all times, allocating specific tasks (
 Water is material that has  accumulated on the earth's surface, located on top of land or below land (i.e. groundwater). Includes but not limited to water from rivers, lakes, ocean, ponds, streams and springs.
 
 #### Biomass samples
-Biomass is a multi-layered, cohesive community of microorganisms, (e.g., bacteria, archaea and eukaryotes), that grow on surfaces in various environments. These mats are often structured in layers, with different microbial groups occupying distinct strata based on their metabolic functions and environmental conditions. You can identify biomass by:
-Color & Texture: Look for filamentous, slimy, oily or mat-like growths on rocks, soil or surfaces of sediment. Some biofilms form a thick crust and have brittle surfaces. Common colors are green, brown, black, orange or even pink.
-Bubble formation: A surface with bubbles, froth or foam can indicate certain types of bacteria, indicating the production of gas.
-Smell: Some biofilms, especially in anaerobic environments (lacking oxygen/air), may produce a sulfuric or musty smell.
+Biomass is a multi-layered, cohesive community of microorganisms, (e.g., bacteria, archaea and eukaryotes), that grow on surfaces in various environments. These mats are often structured in layers, with different microbial groups occupying distinct strata based on their metabolic functions and environmental conditions. *You can identify biomass by:*
+
+  - **Color & Texture:** Look for filamentous, slimy, oily or mat-like growths on rocks, soil or surfaces of sediment. Some biofilms form a thick crust and have brittle surfaces. Common colors are green, brown, black, orange or even pink.
+  - **Bubble formation:** A surface with bubbles, froth or foam can indicate certain types of bacteria, indicating the production of gas.
+  - **Smell:** Some biofilms, especially in anaerobic environments (lacking oxygen/air), may produce a sulfuric or musty smell.
+
 ##### Minimizing Disturbance to Biofilms and Biomass
-When sampling microbial mats, biofilms, or other cohesive biomass, avoid removing the entire growth from a given patch.
-Target the active surface layer (top 1–5 mm) rather than the full mat depth unless deep layers are specifically needed for the research question.
-Collect from the edges or a small subsection of the biomass, leaving most of the mat intact to continue ecological function.
-For spatially extensive mats, collect from multiple points in low-traffic areas rather than concentrating disturbance in one spot.
-Avoid dislodging or fragmenting surrounding substrate, as this can cause biomass detachment beyond the sampled area.
-Record in metadata whether sampling was partial or complete, and document the approximate percent of biomass removed.
-This approach preserves microbial community structure for long-term monitoring, minimizes habitat impact, and supports repeat sampling at the same location.
+  - When sampling microbial mats, biofilms, or other cohesive biomass, avoid removing the entire growth from a given patch.
+  - Target the active surface layer (top 1–5 mm) rather than the full mat depth unless deep layers are specifically needed for the research question.
+  - Collect from the edges or a small subsection of the biomass, leaving most of the mat intact to continue ecological function.
+  - For spatially extensive mats, collect from multiple points in low-traffic areas rather than concentrating disturbance in one spot.
+  - Avoid dislodging or fragmenting surrounding substrate, as this can cause biomass detachment beyond the sampled area.
+  - Record in metadata whether sampling was partial or complete, and document the approximate percent of biomass removed.
+  - This approach preserves microbial community structure for long-term monitoring, minimizes habitat impact, and supports repeat sampling at the same location.
+
 #### Sediment/Soil samples
 Sediment is defined as a deposit of insoluble material, primarily rock and soil particles, transported from land areas to bodies of water. Soil is the upper layer of earth in which plants grow, a black or dark brown material that typically consists of a mixture of organic remains, clay, and rock particles.
 
@@ -69,6 +72,7 @@ This order is to minimize contamination between sample types (e.g., avoiding mix
     - Signs of wildlife (e.g., snakes, wasps, sea urchins) (terrestrial, SCUBA)
 
 ### Site Metadata
+
 #### Site Documentation  (To be measured once per sampling area)
 **Collect the following images of the site** 
 1. Overview Image: One image of the site without people.
@@ -334,43 +338,3 @@ If using a 25ml conical for geochemistry measurements, you may reuse that tube b
 | - | - | - |
 | [2FP Expedition Template](https://github.com/two-frontiers-project/2FP-expedition-template/tree/main) | Folder | Master planning file for objectives, CIDs, metadata, inventory, and team roles |
 | [Instructions for a Whirl-Pak® Leak-Proof Closure](https://www.youtube.com/watch?v=5DvyF1PfEI4) | Video | Manufacturer’s instructions for opening, filling, sealing, and storing Whirl-Pak bags to prevent contamination. |
-
-## Sample Check-In
-
-### Background
-
-Sample Check-In is the standardized process for receiving and registering field samples in the lab, ensuring accurate metadata capture and full traceability from collection through processing.
-This step bridges field collection and laboratory processing. At Check-In, the Field ID — the temporary code written on a Whirl-Pak or other collection container — is matched to a CID (Collection ID) or other unique, pre-generated identifier. Once assigned, a CID is permanently linked to that sample and will never be reused.
-The Field ID–CID mapping is recorded in the expedition metadata spreadsheet (see the Expedition Template for an example). A pre-printed cryolabel with the CID is then applied to the original sample container. Multiple cryolabels for each CID should be prepared in advance so they can also be applied to aliquots preserved in DMSO, glycerol, or DNA/RNA Shield during processing.
-Assign a single individual to be responsible for Sample Check-In. This task should be completed immediately upon sample return to the field lab and ideally in a clean, organized area separate from processing or storage.
-
-### Protocol
-#### Label Verification and Assignment
-1. Ensure the sample container is clearly labeled with its original Field ID.
-2. Arrange sample by date collected, site collected from and sample type.
-3. Assign a unique CID for each incoming sample.
-    - Use the CID sheet generated prior to the expedition.
-    - Apply CID label to the sample container.
-  
-#### Metadata Entry
-4. Open the expeditions metadata spreadsheet for the expedition.
-5. In the spreadsheet:
-  - Link the assigned CID to the corresponding FIeld ID.
-  - Record key sample metadata from the field notebook:
-      - Date
-      - Time
-      - Collection site and GPS
-      - Sample Type
-      - Environmental conditions (e.g. temperature, salinity, depth)
-      - Notes observed during the collection.
-
-#### Images
-6. Confirm all sample photos have been uploaded to the appropriate location.
-    - File names must be prepared with CID (e.g. CID_012345_coral1.jpg)
-7. Upload images of all field notes (non-digital) and note each page with the date, location and page number (DD-MM-YYYY_site_pagenumber)
-
-#### Sample Intake Area Handling
-8. Place checked in samples in the designated intake area for preparation.
-    - Keep samples on ice or at 4C.
-    - Group samples in racks by sample type and CID order.
-
