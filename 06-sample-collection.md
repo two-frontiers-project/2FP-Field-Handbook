@@ -1,4 +1,4 @@
-# [Sample Collection](06-sample-collection.md)
+# Sample Collection
 
 ### Background
 This section outlines general guidelines and protocols for collecting environmental samples, including considerations for different sample types and environments, as well as key steps for ensuring sample integrity and suitability for downstream processing. All sampling must follow the relevant collection protocol for the sample type and environment, whether terrestrial or SCUBA diving.
