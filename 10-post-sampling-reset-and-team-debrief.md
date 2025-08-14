@@ -1,11 +1,11 @@
-# [Post-sampling reset and team debrief](10-post-sampling-reset-and-team-debrief.md)
+# [Post-Sample Collection Reset and Team Debrief
 
 ### Background
 The conclusion of a Two Frontiers Project (2FP) sampling event marks a critical transition—from field operations to laboratory processing, data integration, and scientific analysis. Just as rigorous planning precedes deployment, structured debriefing and systematic equipment reset are essential to close the operational loop. These procedures ensure consumables are tracked, equipment is maintained, and lessons are documented for future expeditions.
 
 Among these steps, the formal team debrief is especially important. It is often the only dedicated time for participants to collectively reflect, synthesize observations, and capture lessons while they are fresh. Expeditions are high-tempo and resource-constrained, and without a deliberate process, failures, workarounds, and best practices can be lost to memory or siloed with individuals. A structured debrief transforms those experiences into shared institutional knowledge, feeding directly into checklists, workflows, and protocols.
 
-Debriefs also have a cultural function: they validate the intense labor of fieldwork, acknowledge challenges faced, and reinforce communication norms within the team. Without them, mistakes recur, resources are wasted, and progress slows.
+*Debriefs also have a cultural function:* they validate the intense labor of fieldwork, acknowledge challenges faced, and reinforce communication norms within the team. Without them, mistakes recur, resources are wasted, and progress slows.
 
 ### Protocols
 
