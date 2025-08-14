@@ -9,7 +9,8 @@ The [Field ID–CID](03-sample-identifiers-and-site-metadata.md) mapping is reco
 
 Assign a single individual to be responsible for Sample Check-In. This task should be completed immediately upon sample return to the field lab and ideally in a clean, organized area separate from processing or storage.
 
-### Protocol
+## Protocol
+
 #### Label Verification and Assignment
 1. Ensure the sample container is clearly labeled with its original Field ID.
 2. Arrange sample by date collected, site collected from and sample type.
