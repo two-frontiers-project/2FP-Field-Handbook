@@ -31,10 +31,7 @@ Water is material that has  accumulated on the earth's surface, located on top o
 
 #### Biomass samples
 
-![](media/biomass.png)
-
-<img src="media/biomass.png" alt="CBiomass" width="400">
-
+<p align="center"><img src="media/biomass.png" alt="CBiomass" width="400"></p>
 
 Biomass is a multi-layered, cohesive community of microorganisms, (e.g., bacteria, archaea and eukaryotes), that grow on surfaces in various environments. These mats are often structured in layers, with different microbial groups occupying distinct strata based on their metabolic functions and environmental conditions. *You can identify biomass by:*
 
