@@ -3,8 +3,6 @@
 ## Background
 This section outlines general guidelines and protocols for collecting environmental samples, including considerations for different sample types and environments, as well as key steps for ensuring sample integrity and suitability for downstream processing. All sampling must follow the relevant collection protocol for the sample type and environment, whether terrestrial or SCUBA diving.
 
-## Protocol
-
 ### Sampling teams and roles
 We recommend working in sampling teams at all times, allocating specific tasks (e.g., metadata  collection, sample tracking, [sample collection](06-sample-collection.md)) to different individuals. Teams of two or three seem to work the best. A single individual attempting to manage the entire sampling workflow, from site surveying to metadata collection, is both potentially unsafe and also quite inefficient.
 
