@@ -34,7 +34,7 @@ While this is the full reference guide, you should also carry the field-ready 2F
 
 If in doubt in the field: go back to the 2FP Field Slates or this Handbook. Follow the steps. Prioritize sterility, traceability, and safety.
 
-### General Guidelines
+## General Guidelines
 These guidelines underpin every step of The Two Frontiers Project’s field and laboratory workflows. They are not sample-type-specific — whether sampling coral tissue at 20m depth or collecting soil in a high-altitude desert, these standards apply.
 
 #### 1. Sterility and Contamination Control
