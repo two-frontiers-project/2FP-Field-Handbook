@@ -1,13 +1,13 @@
 # Sample Processing and Preservation
 
-### Background
+## Background
 Sample Processing and Preservation outlines the standardized procedures for handling environmental sample types — sediment, soil, water, coral, biomass, and plant material — collected during field-work. The goal is to maximize microbial recovery, maintain sample integrity for both culture-dependent and culture-independent analyses, and ensure reproducibility and traceability across teams and sites.
 
 All processing should be completed within 24 hours of [sample collection](06-sample-collection.md) unless otherwise specified. Work must be conducted using sterile technique, appropriate PPE, and in full compliance with the 2FP sample tracking system. This system uses pre-generated CUAL-IDs (CIDs), unique identifiers assigned during [Sample Check-In](07-sample-check-in.md), to ensure every sample remains linked to its complete metadata record. Within 2FP, these are referred to as Two Frontiers IDs (TFIDs), but for clarity they are called CIDs in this document.
 
 Processing should be done in a clean workspace, sanitized before use with 10% bleach (5–10 minutes contact time) followed by 70–80% ethanol. Wear a lab coat, gloves, and any additional PPE appropriate for the environment. Unless conditions in the field prevent it (such as on a vessel), always process samples in a sterile field, using either a clean bench or a portable hood; if neither is available, a flame may be used for sterile work. Keep all tools, containers, and reagents organized to reduce handling time and risk of contamination.
 
-### Protocol
+## Protocol
 
 ### Sample Processing
 
