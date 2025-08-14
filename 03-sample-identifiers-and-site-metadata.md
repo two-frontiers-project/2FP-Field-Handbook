@@ -1,6 +1,6 @@
 # Sample Identifiers and Site Metadata
 
-### Background
+## Background
 Sample identifiers are the backbone of traceability in 2FP’s workflows, ensuring every collected specimen can be tracked from the moment of field collection to long-term storage and final data analysis. Consistent, unambiguous identifiers are essential for reproducibility, data integration, and sharing with collaborators. Complete metadata must be collected at the time of sampling, never reconstructed later, to maintain accuracy and enable replication.
 
 ### Field IDs versus CUAL-IDs (CIDs)
