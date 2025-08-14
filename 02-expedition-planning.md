@@ -7,7 +7,7 @@ Sampling under extreme or remote conditions requires not just technical readines
 
 This section outlines how to assemble an expedition team, choose your collection site, ethically engage local collaborators, and set appropriate planning timelines. These are not just organizational steps; they are an essential part of scientific stewardship.
 
-## Protocol
+## Protocols
 
 ### Selecting a site
 Site selection depends on scientific value, accessibility, regulatory constraints, operational feasibility, and a thorough risk assessment. This risk review should address environmental hazards (storms, wildlife, toxic gases), political or security risks, and health considerations (altitude, remoteness from medical care). Teams must also check seasonality to confirm conditions will be workable during the planned window (e.g., avoiding monsoon season, hurricanes, high-temperatures or ice cover). 
