@@ -36,7 +36,7 @@ Biomass is a multi-layered, cohesive community of microorganisms, (e.g., bacteri
   - **Bubble formation:** A surface with bubbles, froth or foam can indicate certain types of bacteria, indicating the production of gas.
   - **Smell:** Some biofilms, especially in anaerobic environments (lacking oxygen/air), may produce a sulfuric or musty smell.
 
-##### Minimizing Disturbance to Biofilms and Biomass
+#### Minimizing Disturbance to Biofilms and Biomass
   - When sampling microbial mats, biofilms, or other cohesive biomass, avoid removing the entire growth from a given patch.
   - Target the active surface layer (top 1–5 mm) rather than the full mat depth unless deep layers are specifically needed for the research question.
   - Collect from the edges or a small subsection of the biomass, leaving most of the mat intact to continue ecological function.
@@ -101,19 +101,19 @@ If using a 25ml conical for geochemistry measurements, you may reuse that tube b
 - **For mud or sediment samples:** Mud or sediment may obscure pH strip colors, prepare a slurry by mixing approximately 1 part mud/sediment with 10 parts DI water in a clean container. Shake gently for 5 seconds, then let settle briefly. Dip the pH strip into the slurry, wait 30 seconds, and photograph as above. Note: This method provides a standardized slurry pH for comparative purposes and may differ from true in situ pH.
 - **Record observed pH in the metadata sheet in 0.5-unit increment**
 
-##### Measure and record salinity
+#### Measure and record salinity
 - Remove the cap from the salinity/total dissolved solids (TDS) sensor. Power on, confirm units are in ppm, and ensure the device is set to measure salt. Hold the probe in the water sample (either in a clean conical tube or directly in the source) until the reading stabilizes. Record the value in the metadata sheet.
 - For sediment or solid samples: Prepare a slurry at approximately 1:10 ratio in DI water and measure as above.
 - Rinse and wash the probe tip after each measurement
 
-##### Measure and record temperature
+#### Measure and record temperature
 - Use the thermometer to measure water temperature directly from the source. If no water is available, record ambient air temperature at the site. Record in Celsius.
 
-##### Measure and record additional geochemistry
+#### Measure and record additional geochemistry
 - Remove one aquarium/water quality test strip from the provided container. Follow the same sampling approach as for pH measurement.
 - Record any other observations in the metadata sheet, including UV fluorescence, turbidity, odor, and sediment characteristics.
 
-##### Record timing information
+#### Record timing information
 - Record the timestamp of the last photograph taken during metadata collection for this location.
 - Note any additional relevant site observations in the metadata sheet.
 
