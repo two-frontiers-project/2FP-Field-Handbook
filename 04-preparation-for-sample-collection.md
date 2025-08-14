@@ -9,8 +9,6 @@ Preparation is where 2FP’s field success is decided. Every expedition begins w
 - Prepare for safety contingencies
 - Ensure metadata and cold chain coverage from the start
 
-## Protocol
-
 ### Defining sampling plans
 Every expedition requires a clear sampling strategy that aligns with scientific goals, site constraints, and team capacity. A strong plan defines what types of samples will be collected, how many replicates are needed per site, which preservation methods will be used, and who is responsible for each step.
 
@@ -121,6 +119,8 @@ In some expeditions, only DNA sequencing is planned. In these cases, cold chain 
 For refrigeration without freezing, use blue ice packs to maintain ~4°C. These are preferred over wet ice, which can melt, leak, and increase contamination risk. Always ensure refrigeration or freezing capacity is available at the end of each day’s sampling. If no blue ice is available or you need more for transport, consider freezing plastic water bottles or reusable plastic bags full of water, which can be useful when you are in places with limited resources. Hard shell blue ice packs are good for longer trips, they are very durable, produce less condensation and pack well. Soft gel packs of blue ice are flexible and lightweight, however they are less durable and don’t stay cold quite as long as hard shell blue ice packs. When freezing ice packs, freeze in a standard freezer at -20°C and be mindful to not
 
 For more details on packaging, transport regulations, and contingency planning, see **[Sample Transport](09-sample-transportation.md)**.
+
+## Protocols
 
 ## Preparing preservation buffers
 Typically, each sample is aliquoted into three different buffers to preserve different fractions of the microbial community and maintain flexibility for downstream analyses:
