@@ -134,7 +134,7 @@ Proper preservation ensures the integrity of microbial communities for downstrea
 3. Invert each tube 5 times to mix. Tap gently to ensure liquid is at the bottom of the tube before freezing.
 4. Immediately place on dry ice, then store at -80°C.
 
-#### Original Sample Prep. Stocks:
+#### Original Sample Stock
 1. Homogenize the sample by shaking Whirl-pak vigorously for 15 seconds.
 2. Use a P1000 pipette and wide-bore tip to add 1.5 mL of homogenized sample into cryovials without ANY cryopreservant:
     - No additive cryovials
