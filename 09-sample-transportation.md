@@ -6,7 +6,7 @@ The transportation of biological and environmental samples is a critical link in
 It applies to all transport methods, including hand-carry, domestic shipping, and international export. The focus is on preservative-specific temperature requirements, redundant containment to prevent leakage, and the inclusion of proper documentation for customs and regulatory clearance.
 All personnel transporting samples must be trained in sample-specific handling, aware of biosafety and import/export regulations, and prepared to respond to delays, temperature excursions, or other transport-related issues. Samples must be tracked from departure to receipt, with any deviations documented immediately.
 
-### Protocols
+## Protocols
 
 ### General Guidelines
 All samples must be clearly labeled with their CID and preservative type before leaving the field lab. A printed and digital manifest should accompany the shipment, listing each sample ID, its contents, and its destination. Secondary containment—such as sealed bags or boxes lined with absorbent material—is required for most shipments, especially those crossing national borders. Double bagging with absorbent material inside the inner bag is standard practice.
@@ -15,7 +15,7 @@ Each shipment must include official documentation: a cover letter on organizatio
 
 When shipping with dry ice, use only carriers certified to handle “dangerous goods” and never seal dry ice in an airtight container. If driving or traveling with dry ice, ensure proper ventilation, use a CO₂ monitor, and avoid sealed compartments. Always include a temperature logger placed near the samples, and use trackers such as AirTags to monitor location during transit.
 
-#### Packing Checklist:
+### Packing Checklist:
 1. Printed and digital manifest.
 2. Samples double bagged with absorbent material inside inner bag.
 3. Waterproof labels with CID, preservative, and contact details.
@@ -60,14 +60,14 @@ The samples are being hand-carried on a commercial flight from XXX to XXX under 
 
 Regulatory Compliance: We affirm that these materials are non-pathogenic and pose no known risk to agriculture or public health. The marine water and sediment have been screened to ensure they contain no visible invasive organisms. We are not transporting any organisms derived from soil or from agriculture.The samples are packaged according to IATA and airline regulations: they are sealed in leak-proof containers and packed on gel ice/blue ice in an insulated cooler to preserve low temperature. Secondary samples are kept at room temperature.”
 
-#### Best practices for documentation:
+### Best practices for documentation:
   - Carry at least two spare printed copies of all permits and cover letters in separate locations (e.g., one with the shipment, one with the traveler, and one stored in cloud storage).
   - Keep digital copies of all documentation accessible offline on a mobile device or USB drive.
   - If a shipment passes through multiple carriers or customs points, label each container with a “Documentation Inside” note in waterproof ink.
   - Where possible, secure permits that cover multiple shipments or multiple sample types to reduce administrative burden.
   - For international shipments, confirm if the country of transit (not just origin/destination) has any biological material restrictions.
 
-#### Proactive compliance measures:
+### Proactive compliance measures:
   - Initiate permitting processes early—CITES and APHIS approvals can take months.
   -  Maintain a master log of permits, expiration dates, and conditions of use for expeditions.
   - When working with international collaborators, determine if permits must be obtained by both the sending and receiving institutions.
