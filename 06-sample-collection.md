@@ -27,9 +27,15 @@ We recommend working in sampling teams at all times, allocating specific tasks (
 ### Sample types
 
 #### Water samples
-Water is material that has  accumulated on the earth's surface, located on top of land or below land (i.e. groundwater). Includes but not limited to water from rivers, lakes, ocean, ponds, streams and springs.
+Water refers to liquid material that has accumulated on the Earth’s surface or within subsurface aquifers (i.e., groundwater). Sources include—but are not limited to—rivers, lakes, oceans, ponds, streams, springs, estuaries, wetlands, glacial meltwater, and geothermal pools.
 
 <p align="center"><img src="media/water.png" alt="Water" width="400"></p>
+
+**Relevance:** Water can serve as a medium for suspended microorganisms (planktonic bacteria, archaea, protists, and viruses), dissolved nutrients, organic matter, and chemical signatures.
+
+**Sampling considerations:** Collect at representative depths and locations to capture environmental variability (e.g., surface vs. bottom water, upstream vs. downstream). Avoid introducing contamination from the sampler’s hands, gear, or nearby sediments. When possible, record water temperature, salinity, pH, dissolved oxygen, and turbidity alongside sample collection.
+
+**Special cases:** In thermally active, hypersaline, or chemically stratified waters, microbial communities may shift dramatically within centimeters of depth, making depth-specific sampling essential.
 
 #### Biomass samples
 
@@ -42,6 +48,14 @@ Biomass is a multi-layered, cohesive community of microorganisms, (e.g., bacteri
   - **Bubble formation:** A surface with bubbles, froth or foam can indicate certain types of bacteria, indicating the production of gas.
   - **Smell:** Some biofilms, especially in anaerobic environments (lacking oxygen/air), may produce a sulfuric or musty smell.
 
+**Special cases:**
+- **Layered Communities:** Some microbial mats are stratified with sharp physical and chemical gradients (e.g., light, oxygen, sulfide). Removing or disturbing deeper layers can change their chemistry within minutes, altering the community structure before analysis.
+- **Fragile or Unstable Mats**: Gelatinous or loosely attached biomass can disintegrate with minimal disturbance. Use minimal water movement and gentle collection tools (spatulas, syringes) to avoid loss of material.
+- **Mineral-Crusted Mats:** Some mats, especially in iron- or carbonate-rich environments, are cemented with minerals. These require careful scraping to collect without shattering the structure.
+- **Hydrothermal & High-Temperature Mats:** Thermophilic biomass may degrade rapidly once removed from high temperatures. Collect carefully and preserve immediately.
+- **Anoxic Biomass:** Anaerobic mats can oxidize quickly on exposure to air, altering color, chemistry, and microbial activity. If anaerobic conditions are relevant to your study, collect into oxygen-free containers or preserve promptly.
+- **Episodic Growth Mats:** Some mats form only seasonally or after specific events (e.g., flooding, algal blooms). Document environmental context so the temporal dynamics are clear.
+
 #### Minimizing Disturbance to Biofilms and Biomass
   - When sampling microbial mats, biofilms, or other cohesive biomass, avoid removing the entire growth from a given patch.
   - Target the active surface layer (top 1–5 mm) rather than the full mat depth unless deep layers are specifically needed for the research question.
@@ -52,11 +66,15 @@ Biomass is a multi-layered, cohesive community of microorganisms, (e.g., bacteri
   - This approach preserves microbial community structure for long-term monitoring, minimizes habitat impact, and supports repeat sampling at the same location.
 
 #### Sediment/Soil samples
-Sediment is defined as a deposit of insoluble material, primarily rock and soil particles, transported from land areas to bodies of water. 
+Sediment is insoluble material—such as mineral particles, organic debris, and chemical precipitates—deposited by water, wind, or ice. In aquatic environments, sediment may be soft (mud, silt) or consolidated (sand, gravel), and can contain unique microbial communities adapted to low-oxygen or anoxic conditions. 
+
+Soil is the biologically active upper layer of the Earth’s surface, composed of mineral particles, decomposed organic matter, air, and water. Soil supports plant growth and sustains complex microbial networks that drive nutrient cycling.
 
 <p align="center"><img src="media/sediment.png" alt="Sediment" width="400"></p>
 
-Soil is the upper layer of earth in which plants grow, a black or dark brown material that typically consists of a mixture of organic remains, clay, and rock particles.
+**Sampling considerations:** Avoid mixing layers unless the study requires homogenization—microbial communities vary significantly by depth. For fine-scale studies, note soil/sediment texture, color, moisture, and odor. Use sterilized tools to avoid contamination, and record GPS coordinates, depth, and environmental conditions.
+
+**Special cases:** Organic-rich soils, hydrothermal sediments, or chemically active soils (e.g., high sulfur, iron, or salinity) may host specialized extremophiles of interest for environmental microbiology.
 
 ### Sampling order
 1.  Water Samples
