@@ -30,7 +30,7 @@ We recommend working in sampling teams at all times, allocating specific tasks (
 Water is material that has  accumulated on the earth's surface, located on top of land or below land (i.e. groundwater). Includes but not limited to water from rivers, lakes, ocean, ponds, streams and springs.
 
 #### Biomass samples
-[](media/biomass.png)
+![](media/biomass.png)
 Biomass is a multi-layered, cohesive community of microorganisms, (e.g., bacteria, archaea and eukaryotes), that grow on surfaces in various environments. These mats are often structured in layers, with different microbial groups occupying distinct strata based on their metabolic functions and environmental conditions. *You can identify biomass by:*
 
   - **Color & Texture:** Look for filamentous, slimy, oily or mat-like growths on rocks, soil or surfaces of sediment. Some biofilms form a thick crust and have brittle surfaces. Common colors are green, brown, black, orange or even pink.
