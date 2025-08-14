@@ -122,7 +122,7 @@ For refrigeration without freezing, use blue ice packs to maintain ~4°C. These 
 
 For more details on packaging, transport regulations, and contingency planning, see **[Sample Transport](09-sample-transportation.md)**.
 
-### Preparing preservation buffers
+## Preparing preservation buffers
 Typically, each sample is aliquoted into three different buffers to preserve different fractions of the microbial community and maintain flexibility for downstream analyses:
 - 50% glycerol is used to preserve heterotrophic microorganisms. Glycerol acts as a cryoprotectant, reducing ice crystal formation during freezing, which helps maintain cell integrity for culture recovery. It should be stored at -20°C or -80°C, and samples in glycerol must remain frozen until processing.
 - 10% DMSO is used to preserve phototrophic organisms and certain sensitive cell types. DMSO penetrates cell membranes and protects internal structures from freezing damage, but can be toxic at higher concentrations or with prolonged exposure at non-freezing temperatures. Samples in DMSO should be frozen as quickly as possible after aliquoting, ideally on dry ice, and kept at -80°C for long-term storage.
