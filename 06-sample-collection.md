@@ -29,12 +29,15 @@ We recommend working in sampling teams at all times, allocating specific tasks (
 #### Water samples
 Water is material that has  accumulated on the earth's surface, located on top of land or below land (i.e. groundwater). Includes but not limited to water from rivers, lakes, ocean, ponds, streams and springs.
 
+<p align="center"><img src="media/water.png" alt="Water" width="400"></p>
+
 #### Biomass samples
 
-Biomass is a multi-layered, cohesive community of microorganisms, (e.g., bacteria, archaea and eukaryotes), that grow on surfaces in various environments. These mats are often structured in layers, with different microbial groups occupying distinct strata based on their metabolic functions and environmental conditions. *You can identify biomass by:*
+Biomass is a multi-layered, cohesive community of microorganisms, (e.g., bacteria, archaea and eukaryotes), that grow on surfaces in various environments. These mats are often structured in layers, with different microbial groups occupying distinct strata based on their metabolic functions and environmental conditions.
 
-<p align="center"><img src="media/biomass.png" alt="CBiomass" width="400"></p>
+<p align="center"><img src="media/biomass.png" alt="Ciomass" width="400"></p>
 
+ *You can identify biomass by:*
   - **Color & Texture:** Look for filamentous, slimy, oily or mat-like growths on rocks, soil or surfaces of sediment. Some biofilms form a thick crust and have brittle surfaces. Common colors are green, brown, black, orange or even pink.
   - **Bubble formation:** A surface with bubbles, froth or foam can indicate certain types of bacteria, indicating the production of gas.
   - **Smell:** Some biofilms, especially in anaerobic environments (lacking oxygen/air), may produce a sulfuric or musty smell.
@@ -49,7 +52,11 @@ Biomass is a multi-layered, cohesive community of microorganisms, (e.g., bacteri
   - This approach preserves microbial community structure for long-term monitoring, minimizes habitat impact, and supports repeat sampling at the same location.
 
 #### Sediment/Soil samples
-Sediment is defined as a deposit of insoluble material, primarily rock and soil particles, transported from land areas to bodies of water. Soil is the upper layer of earth in which plants grow, a black or dark brown material that typically consists of a mixture of organic remains, clay, and rock particles.
+Sediment is defined as a deposit of insoluble material, primarily rock and soil particles, transported from land areas to bodies of water. 
+
+<p align="center"><img src="media/sediment.png" alt="Sediment" width="400"></p>
+
+Soil is the upper layer of earth in which plants grow, a black or dark brown material that typically consists of a mixture of organic remains, clay, and rock particles.
 
 ### Sampling order
 1.  Water Samples
