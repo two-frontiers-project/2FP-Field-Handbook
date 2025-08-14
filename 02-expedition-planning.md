@@ -1,11 +1,13 @@
 # Expedition Planning
 
-### Background
+## Background
 Expedition planning is the foundation of every successful Two Frontiers Project sampling effort. A well-planned expedition maximizes scientific yield, minimizes environmental impact, and ensures team safety. These steps are not optional — they are the baseline for maintaining our reputation for excellence, integrity, and collaboration.
 
 Sampling under extreme or remote conditions requires not just technical readiness, but a cohesive, role-oriented team, an ethically chosen site, and an understanding of cultural and logistical context. No matter the destination—deep-sea reef, arid soil, or coastal lagoon—each site demands its own level of preparation, precaution, and partnership.
 
 This section outlines how to assemble an expedition team, choose your collection site, ethically engage local collaborators, and set appropriate planning timelines. These are not just organizational steps; they are an essential part of scientific stewardship.
+
+## Protocol
 
 ### Selecting a site
 Site selection depends on scientific value, accessibility, regulatory constraints, operational feasibility, and a thorough risk assessment. This risk review should address environmental hazards (storms, wildlife, toxic gases), political or security risks, and health considerations (altitude, remoteness from medical care). Teams must also check seasonality to confirm conditions will be workable during the planned window (e.g., avoiding monsoon season, hurricanes, high-temperatures or ice cover). 
