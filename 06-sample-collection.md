@@ -146,6 +146,12 @@ If using a 25ml conical for geochemistry measurements, you may reuse that tube b
 - Note any additional relevant site observations in the metadata sheet.
 
 ### Water Collection
+
+<p align="center">
+  <img src="media/whirlpak.png" alt="Whirlpak" width="400">
+</p>
+
+
 #### Underwater (SCUBA diving)
 **Prep:**
 
