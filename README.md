@@ -33,3 +33,6 @@ The purpose of this protocol is to collect samples for downstream metagenomic se
 9. [Sample Processing and Preservation](08-sample-processing-and-preservation.md)
 10. [Sample Transportation](09-sample-transportation.md)
 11. [Post-Sample Collection Reset and Team Debrief](10-post-sampling-reset-and-team-debrief.md)
+
+## Contact: 
+Email: info at two frontiers dot org
