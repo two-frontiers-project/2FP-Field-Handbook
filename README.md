@@ -21,7 +21,7 @@ The purpose of this protocol is to collect samples for downstream metagenomic se
 - **Plants:** Includes plant biomass (above or below ground) and soil containing roots
 - **Invertebrates:** Occasional organisms, often marine benthic
 
-## Quick links
+## Handbook Contents
 1. [About this handbook](01-about-this-handbook.md)
 2. [Expedition Planning](02-expedition-planning.md)
 3. [Sample Identifiers and Site Metadata](03-sample-identifiers-and-site-metadata.md)
