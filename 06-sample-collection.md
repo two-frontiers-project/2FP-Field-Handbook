@@ -26,7 +26,7 @@ We recommend working in sampling teams at all times, allocating specific tasks (
 
 ### Sample types
 
-#### Water samples
+<p align="center">#### Water samples</p>
 Water is material that has  accumulated on the earth's surface, located on top of land or below land (i.e. groundwater). Includes but not limited to water from rivers, lakes, ocean, ponds, streams and springs.
 
 #### Biomass samples
