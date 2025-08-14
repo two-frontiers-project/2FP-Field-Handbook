@@ -1,4 +1,4 @@
-# [Preparation for [sample collection](06-sample-collection.md)](04-preparation-for-sample-collection.md)
+# Preparation for Sample Collection
 
 ### Background
 Preparation is where 2FP’s field success is decided. Every expedition begins with clear planning, structured workflows, and built-in redundancy for all critical operations. Regardless of environment — desert, reef, forest, or vent field — the same core principles apply: samples must be traceable, sterile, biologically representative, and compatible with downstream sequencing and culturing.
@@ -14,7 +14,7 @@ Every expedition requires a clear sampling strategy that aligns with scientific 
 
 Sampling goals should be defined prior to departure. Specify whether the objective is metagenomic sequencing, microbial cultivation, geochemical correlation, or all of the above. Match sample types to research questions (e.g., if you are interested in complex communities, emphasize biomass, if you are interested in free-living organisms, emphasize water sampling). Ensure that sample sizes will guarantee statistical power to enable your downstream collection plans. Plan for depth of and type of sequencing for each given sample, and plan for downstream culturing activities. If no culturing is needed, certain cryopreservatives may not be required (or, for example, if phototrophs are not of interest, DMSO may not be needed). Similarly, if DNA sequencing is not needed, samples do not need to be preserved in a DNA shield.
 
-##### During [sample collection](06-sample-collection.md) planning, field teams must define:
+##### During Sample Collection Planning, teams must define:
 - Number of sites
 - Number and type of samples per site
 - Collection methods
@@ -46,7 +46,7 @@ Safety is a core pillar of every expedition. Before departure, one team member m
 In addition to appointing this role, a safety briefing must be delivered before sampling begins. This briefing should cover general hazards, site-specific risks, and the protocols in place to address them. It may be led entirely by the Safety Officer or shared among team members with relevant expertise — for example, dive instructors may lead the diving safety component, while local collaborators may present on environmental hazards unique to the site. The goal is to ensure that every member of the team understands the risks, mitigation strategies, and emergency procedures before work starts.
 
 ### Dive safety
-All underwater work conducted by 2FP follows the standards of the American Academy of Underwater Sciences (AAUS). This includes comprehensive dive planning, pre-dive briefings, and adherence to operational limits based on diver training and experience. An O₂ kit must be present on the dive vessel, and the location of the nearest hyperbaric chamber must be confirmed before the first dive. Dive plans must also account for post-dive no-fly intervals and the physical limits of the least-experienced diver on the team. 2FP is in the process of obtaining full AAUS organizational membership and will update this handbook with the complete dive manual upon approval.
+All underwater work conducted by 2FP follows the standards of the [American Academy of Underwater Sciences (AAUS)](https://www.aaus.org/). This includes comprehensive dive planning, pre-dive briefings, and adherence to operational limits based on diver training and experience. An O₂ kit must be present on the dive vessel, and the location of the nearest hyperbaric chamber must be confirmed before the first dive. Dive plans must also account for post-dive no-fly intervals and the physical limits of the least-experienced diver on the team. 2FP is in the process of obtaining full AAUS organizational membership and will update this handbook with the complete dive manual upon approval.
 
 #### Pre-Dive Safety Checklist
 - [ ] **Confirm** all divers have current medical clearance and DAN dive insurance
@@ -118,7 +118,7 @@ In some expeditions, only DNA sequencing is planned. In these cases, cold chain 
 
 For refrigeration without freezing, use blue ice packs to maintain ~4°C. These are preferred over wet ice, which can melt, leak, and increase contamination risk. Always ensure refrigeration or freezing capacity is available at the end of each day’s sampling. If no blue ice is available or you need more for transport, consider freezing plastic water bottles or reusable plastic bags full of water, which can be useful when you are in places with limited resources. Hard shell blue ice packs are good for longer trips, they are very durable, produce less condensation and pack well. Soft gel packs of blue ice are flexible and lightweight, however they are less durable and don’t stay cold quite as long as hard shell blue ice packs. When freezing ice packs, freeze in a standard freezer at -20°C and be mindful to not
 
-For more details on packaging, transport regulations, and contingency planning, see **Sample Transport**.
+For more details on packaging, transport regulations, and contingency planning, see **[Sample Transport](09-sample-transportation.md)**.
 
 ### Preparing preservation buffers
 Typically, each sample is aliquoted into three different buffers to preserve different fractions of the microbial community and maintain flexibility for downstream analyses:
