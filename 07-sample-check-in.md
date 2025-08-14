@@ -1,21 +1,40 @@
-# [Sample Check-In Area](07-sample-check-in.md)
-- The [sample check-in area](07-sample-check-in.md) should be clean, accessible, and close to cold storage. This is where incoming samples are received, logged, and assigned Collection IDs (CIDs). It should have a computer or tablet for digital metadata entry, labeling materials, and notebooks for backup notes. Cold storage, such as coolers or portable refrigeration, should be nearby to stabilize samples immediately. The work surface should be easy to disinfect with 10% bleach followed by 70–80% ethanol before and after each use.
+# Sample Check-In
 
-3. #### Sample Processing Area
-- The sample processing area is designated for pre-processing before preservation. This may involve concentrating water samples or homogenizing sediment. All tools, racks, tubes, filters, and ethanol baths should be organized and ready before starting. Keep the area free from non-sterile gear, maintain a draft-free environment, and clean all surfaces with 10% bleach (5–10 minutes contact time) followed by 70–80% ethanol before and after use.
+## Background
 
-4. #### Sample Preservation Area
-- The sample preservation area is used for final steps such as aliquoting into preservatives like DNA/RNA Shield, DMSO, or glycerol. This area should have prepared cryovials, reagent stocks, pipettes, and cold chain storage such as dry ice, portable -80°C freezers, or insulated coolers. If using an open flame for sterile technique, it must be secured and stable. On vessels, flame use must be approved by the captain and a fire extinguisher should be on hand. If open flames are not permitted, use a portable HEPA-filtered clean box or rely on ethanol-based surface sterilization.
+Sample Check-In is the standardized process for receiving and registering field samples in the lab, ensuring accurate metadata capture and full traceability from collection through processing.
+This step bridges field collection and laboratory processing. At Check-In, the Field ID — the temporary code written on a Whirl-Pak or other collection container — is matched to a CID (Collection ID) or other unique, pre-generated identifier. Once assigned, a CID is permanently linked to that sample and will never be reused.
 
-### Maintaining Sterility in the Field
-Maintaining sterility in the field is critical for sample quality. Gloves should be worn at all times and changed between samples or tasks. Sterile items should not be placed on unclean surfaces; use trays or racks instead. Tubes and reagent caps must remain closed unless actively in use, and all materials should be prepared in advance to minimize open handling time. When working outdoors, position yourself upwind of dust or debris, and consider using portable shelters in windy or dusty environments.
+The [Field ID–CID](03-sample-identifiers-and-site-metadata.md) mapping is recorded in the expedition metadata spreadsheet (see the Expedition Template for an example). A pre-printed cryolabel with the CID is then applied to the original sample container. Multiple cryolabels for each CID should be prepared in advance so they can also be applied to aliquots preserved in DMSO, glycerol, or DNA/RNA Shield during processing.
 
-### Waste Disposal
-All waste must be handled as potentially contaminated. Solid waste such as gloves, tips, and used tubes should be placed in clearly labeled, leak-proof biohazard bags. Liquid waste, including rinse water and leftover buffers, should be collected in a dedicated, labeled container with a secure lid, treated with 10% bleach for at least 20 minutes before disposal. If autoclave access is available, autoclave solid waste prior to disposal. If not, double-bag and return waste to a facility with proper disposal capability. Local regulations, including those for marine or protected areas, must be followed at all times
+Assign a single individual to be responsible for Sample Check-In. This task should be completed immediately upon sample return to the field lab and ideally in a clean, organized area separate from processing or storage.
 
-### Resources
+### Protocol
+#### Label Verification and Assignment
+1. Ensure the sample container is clearly labeled with its original Field ID.
+2. Arrange sample by date collected, site collected from and sample type.
+3. Assign a unique CID for each incoming sample.
+    - Use the CID sheet generated prior to the expedition.
+    - Apply CID label to the sample container.
+  
+#### Metadata Entry
+4. Open the expeditions metadata spreadsheet for the expedition.
+5. In the spreadsheet:
+  - Link the assigned CID to the corresponding FIeld ID.
+  - Record key sample metadata from the field notebook:
+      - Date
+      - Time
+      - Collection site and GPS
+      - Sample Type
+      - Environmental conditions (e.g. temperature, salinity, depth)
+      - Notes observed during the collection.
 
-| Resource | Type | Description |
-| - | - | - |
-| [CDC Biosafety in Microbiological and Biomedical Laboratories](https://www.cdc.gov/labs/pdf/SF__19_308133-A_BMBL6_00-BOOK-WEB-final-3.pdf) | PDF | Published by the CDC and NIH, the BMBL is the primary U.S. reference for biosafety practices, facility standards, and risk assessments in microbiological work. It defines biosafety levels (BSL-1 to BSL-4), outlines safe handling of microorganisms, and provides guidance on decontamination, PPE, and laboratory design. While most 2FP work falls under BSL-1 or BSL-2, this manual is an essential resource for aligning field and lab protocols with established safety standards. |
+#### Images
+6. Confirm all sample photos have been uploaded to the appropriate location.
+    - File names must be prepared with CID (e.g. CID_012345_coral1.jpg)
+7. Upload images of all field notes (non-digital) and note each page with the date, location and page number (DD-MM-YYYY_site_pagenumber)
 
+#### Sample Intake Area Handling
+8. Place checked in samples in the designated intake area for preparation.
+    - Keep samples on ice or at 4C.
+    - Group samples in racks by sample type and CID order.
