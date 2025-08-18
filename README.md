@@ -1,5 +1,6 @@
 # The Two Frontiers Project Field Handbook
 Author(s): Krista A. Ryon, James R. Henriksen, Braden T. Tierney
+
 Version 11.0
 
 ## Introduction: 
