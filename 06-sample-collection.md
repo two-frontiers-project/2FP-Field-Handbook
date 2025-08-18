@@ -357,7 +357,7 @@ If using a 25ml conical for geochemistry measurements, you may reuse that tube b
 
 **Sampling:**
 
-5. At the site, use a clipping or coring device to collect ~15cc of material.
+5. At the site, use a clipping or coring device to collect ~15mL of material.
 6. Open the Whirl-pak, and transfer the sample into the bag.
 7. Carefully twist (3 times at least) and close the bag underwater. Squeeze out excess water if needed.
 8. Always stand the bag upright.
