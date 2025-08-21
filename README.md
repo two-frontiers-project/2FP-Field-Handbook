@@ -3,7 +3,7 @@ Author(s): Krista A. Ryon, James R. Henriksen, Braden T. Tierney
 
 Version 11.0
 
-[Download the full 2FP Handbook](XXX)
+[Download the full 2FP Handbook](2FP_handbook_V11.pdf?raw=1)
 
 ## Introduction: 
 This Standard Operating Procedure (SOP) has been outlined to cover the sampling and processing of general environmental samples for the study of microorganisms.
