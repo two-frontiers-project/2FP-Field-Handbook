@@ -1,4 +1,4 @@
-# The Two Frontiers Project Field Handbook
+# Overview of the 2FP Handbook and Standards Guide
 Author(s): Krista A. Ryon, James R. Henriksen, Braden T. Tierney
 
 Version 11.0
